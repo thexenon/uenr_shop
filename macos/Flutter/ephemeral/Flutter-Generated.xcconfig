@@ -1,11 +1,11 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/gh/Documents/Derek/flutter
-FLUTTER_APPLICATION_PATH=/Users/gh/Documents/Derek/Apps/uenr_shop
+FLUTTER_ROOT=C:\Users\Prof. Benjamin Emikp\A - Advance Coding - A\Flutter
+FLUTTER_APPLICATION_PATH=C:\Users\Prof. Benjamin Emikp\Documents\GitHub\uenr_shop
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_BUILD_DIR=build
 FLUTTER_BUILD_NAME=1.0.0
 FLUTTER_BUILD_NUMBER=1
 DART_OBFUSCATION=false
-TRACK_WIDGET_CREATION=false
+TRACK_WIDGET_CREATION=true
 TREE_SHAKE_ICONS=false
 PACKAGE_CONFIG=.dart_tool/package_config.json

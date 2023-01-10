@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "856310239619",
+    "firebase_url": "https://the-uenr-market-place-default-rtdb.firebaseio.com",
+    "project_id": "the-uenr-market-place",
+    "storage_bucket": "the-uenr-market-place.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856310239619:android:c142dffeeee88b0cb766b6",
+        "android_client_info": {
+          "package_name": "com.example.buynow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrvlb8SjOnWaHjNJzsq089KCv_0y2dek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856310239619:android:08eaa47be57f5219b766b6",
+        "android_client_info": {
+          "package_name": "com.example.minibis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrvlb8SjOnWaHjNJzsq089KCv_0y2dek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856310239619:android:bb23c952dfaf4009b766b6",
+        "android_client_info": {
+          "package_name": "com.thexenon.uenr_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrvlb8SjOnWaHjNJzsq089KCv_0y2dek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856310239619-rdub8tom3ekif4qs2ec0pvrv9qp52aht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
